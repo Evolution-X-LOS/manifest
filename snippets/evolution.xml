@@ -19,6 +19,11 @@
            sync-j="4"
            revision="refs/heads/udc" />
 
+  <remote  name="bitbucket-non-evo"
+           sync-c="true"
+           sync-j="4"
+           fetch="https://bitbucket.org/">
+
   <remote  name="evo-main"
            fetch="https://git.mainlining.org/EvolutionX"
            sync-c="true"
