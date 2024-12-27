@@ -19,7 +19,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 - Lunch a target
 ```bash
-lunch lineage_codename-ap3a-userdebug
+lunch lineage_codename-ap4a-userdebug
 ```
 
 - To start compiling
